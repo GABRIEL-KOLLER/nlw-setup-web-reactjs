@@ -40,7 +40,7 @@ Um simples projeto no qual aborda funções complexas de manuseamento de dados, 
 O Projeto tem funcionalidade de listar hábitos que o usuário deseja realizar durante a semana e mês. É possível criar um novo hábito, selecionar quais dias esses hábitos vai estar
 disponível e por fim, quando estiver feito, marcar tarefa como concluída.
 
-- [Acesse o projeto finalizado, online](#######)
+
 
 
 
